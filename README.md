@@ -131,6 +131,5 @@ This project bridges geodetic engineering principles with data science to analyz
 
 ---
 
-⭐ If you find this project useful, please consider giving it a star!
-
+A data enthusiast and F1 fan who saw racing data as the perfect playground for spatial analytics.
 **Keywords:** #DataScience #MachineLearning #GeospatialAnalysis #Formula1 #Python #PredictiveModeling #SportsAnalytics #FeatureEngineering #Visualization
