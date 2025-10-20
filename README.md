@@ -71,8 +71,7 @@ This project bridges geodetic engineering principles with data science to analyz
 
 ### Development Tools
 - **Jupyter Notebook** - Interactive development environment
-- **Git & GitHub** - Version control
-- **VS Code** - Code editing
+- **GitHub** - Version control
 
 ## Results
 
